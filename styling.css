@@ -7,7 +7,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Header styles */
 header {
     background-color: #333;
     color: #fff;
@@ -39,7 +38,7 @@ header h1 {
     text-decoration: underline;
 }
 
-/* Content styles */
+
 .content {
     max-width: 800px;
     margin: 20px auto;
@@ -63,7 +62,7 @@ header h1 {
     margin: 10px 0;
 }
 
-/* Footer styles */
+
 footer {
     background-color: #333;
     color: #fff;
